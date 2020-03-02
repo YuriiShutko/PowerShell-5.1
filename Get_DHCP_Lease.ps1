@@ -1,12 +1,12 @@
 ﻿$DHCP_Server = "server_name"
-$ScopesID = 'Scope id,...'
+$ScopesID = 'Scope id1', 'Scope id2'...
 Write-Host " 
   Choose:  
     '1'   
     '2'   
     '3'   
     '4'  
-    '5'   
+    '5'  "Your description" 
     '6'   
     '7'  
     '8'   
